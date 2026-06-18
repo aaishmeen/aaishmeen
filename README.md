@@ -9,6 +9,16 @@ Currently building **ZeroQ**, contributing to open source, and learning how prod
 
 ---
 
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,git,github,vscode,mysql,postgresql,fastapi" />
+</p>
+
+
+---
+
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaishmeen-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/aaishmeen)
@@ -16,15 +26,6 @@ Currently building **ZeroQ**, contributing to open source, and learning how prod
 [![GitHub](https://img.shields.io/badge/GitHub-aaishmeen-181717?style=for-the-badge\&logo=github)](https://github.com/aaishmeen)
 
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail)](mailto:chowdharyaaishmeen@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,git,github,vscode,mysql,postgresql,fastapi" />
-</p>
-
 
 ---
 
