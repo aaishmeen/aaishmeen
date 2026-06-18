@@ -1,5 +1,5 @@
 
-# 👋 About Me
+# 👋 About Me:
 
 I'm Aaishmeen, a Computer Science student who accidentally traded the stage for a terminal.
 
